@@ -1,6 +1,6 @@
 import kaplay from "kaplay";
 
-export const k = kaplay({
+const k = kaplay({
   width: 1920,
   height: 1080,
   letterbox: true,
@@ -16,3 +16,5 @@ export const k = kaplay({
   debugKey: "d",
   debug: true,
 });
+
+export default k;
