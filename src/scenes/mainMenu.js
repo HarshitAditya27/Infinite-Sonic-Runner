@@ -29,6 +29,12 @@ export default function mainMenu() {
   ]);
 
   k.add([
+    k.text("Made by HarshitAditya27", { font: "mania", size: 22 }),
+    k.anchor("center"),
+    k.pos(k.center().x, k.center().y - 280),
+  ]);
+
+  k.add([
     k.text("Press Space/Click/Touch to Play", { font: "mania", size: 32 }),
     k.anchor("center"),
     k.pos(k.center().x, k.center().y - 200),
