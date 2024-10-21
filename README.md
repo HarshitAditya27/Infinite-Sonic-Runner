@@ -1,6 +1,9 @@
 
-<h1> Infinite Sonic Runner </h1> 
-<p align='center'> <a href="https://sonicjs.netlify.app/">Deployed Link </a> | <a href="https://youtu.be/0toJo7Mqpac">Demo Link</a> </p>
+<h1> Infinite Sonic Runner </h1>
+
+<p> <a href="https://sonicjs.netlify.app/">Deployed Link </a> | <a href="https://youtu.be/0toJo7Mqpac">Demo Link</a> </p>
+
+![Screenshot (970)](https://github.com/user-attachments/assets/acc3dec2-538e-498f-93f3-c52dc4d9c488)
 
 
 ## Introduction 🐱‍💻
@@ -24,7 +27,7 @@
   **Step 2**: Clone your forked repository. Replace **yourusername** with your GitHub Username. 
   
   ```
-https://github.com/HarshitAditya27/Sonic.git
+https://github.com/HarshitAditya27/Infinite-Sonic-Runner.git
 ``` 
   **Step 3** : Go to the project folder and run npm i. It will install all the packages and dependencies used in the project. 
   
@@ -40,7 +43,11 @@ Hurray 🥳, you successfully deployed the project in your local machine 🎉.
 
 
   ## Screenshots  
-
+![Screenshot (971)](https://github.com/user-attachments/assets/090dcf13-d5c8-444b-82be-0100df64a63a)
+![Screenshot (972)](https://github.com/user-attachments/assets/3b807782-47a3-49fd-aec1-7e68f762d9d6)
+![Screenshot (974)](https://github.com/user-attachments/assets/4982315d-f876-4664-90c8-1489917e4aa8)
+![Screenshot (975)](https://github.com/user-attachments/assets/48e4e259-3fb7-4611-940f-8c50c2505ee9)
+![Screenshot (976)](https://github.com/user-attachments/assets/21bcb0a7-2c7b-43d2-84a5-9e85abf737ed)
 
   ## Loved the project 💖? 
   
